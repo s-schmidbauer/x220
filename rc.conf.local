@@ -1,0 +1,10 @@
+apmd_flags=-A -z 7
+dhcpd_flags="vether0"
+httpd_flags=
+multicast_host=YES       # Some avahi shenanigans
+pkg_scripts="messagebus" # Enables dbus/ConsoleKit stuff
+sensorsd_flags=
+smtpd_flags=NO
+sshd_flags=NO
+vmd_flags=
+xenodm_flags=""          # Starts xenodm graphical login
