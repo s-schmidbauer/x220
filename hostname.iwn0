@@ -1,5 +1,2 @@
-#nwid VFNL-FD40F0 wpa wpakey C6AYZ6469UW58
-#multiple networks to join in order of preference
-join VFNL-FD40F0 wpakey C6AYZ6469UW58
-inet6 autoconf
+nwid VFNL-FD40F0 wpakey C6AYZ6469UW58
 dhcp
